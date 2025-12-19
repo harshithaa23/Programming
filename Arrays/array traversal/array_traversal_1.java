@@ -100,7 +100,7 @@ public static void prod(int[] a){
       p=p*a[i];
         
     }
-    System.out.println(sum);
+    System.out.println(p);
 
 }
 }
